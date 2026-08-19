@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/shani-vaishnav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://github.com/sunnyvaishnav7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://twitter.com/sunnyvaishnav77"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white&labelColor=0D1117"/></a>
-<a href="mailto:[FILL IN YOUR EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:shanivaishnav7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 <img src="https://komarev.com/ghpvc/?username=sunnyvaishnav7&label=Profile%20Views&color=00D9FF&style=flat-square&labelColor=0D1117"/>
 
 </div>
@@ -202,7 +202,7 @@ Tested **[FILL IN target app]** for OWASP Top 10 issues. Found and validated **[
 
 <div align="center">
 
-**Email:** `[FILL IN]` &nbsp;·&nbsp; **Resume:** `[FILL IN link]`
+**Email:** `shanivaishnav7@gmail.com` &nbsp;·&nbsp; **Resume:** `https://drive.google.com/file/d/1a3dWKAj66mtC7gnppBP5Oj2Z4r9sFn-k/view`
 
 <a href="https://linkedin.com/in/shani-vaishnav"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/sunnyvaishnav7"><img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
